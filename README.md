@@ -1,5 +1,5 @@
 # Form and Plot
-## The influence of genre, author gender and quality ratings on narrative arcs in Dutch-language novels 
+## Exploring the role of genre, author gender and quality ratings in narrative arcs in Dutch-language novels
 
 This repository contains the scripts and data used in a study to analyze narrative structures in Dutch-language novels and compare them with English-language literature. The research leverages the framework proposed by Boyd et al. (2020) to explore trends in Staging, Plot Progression, and Cognitive Tension across a corpus of 401 Dutch novels. The study investigates whether narrative trends identified in English-language literature also emerge in Dutch novels. Key factors such as genre, author gender, literary quality, and reader-assigned quality are examined to understand their influence on narrative arcs. The findings highlight notable differences, including the pronounced impact of the Romantic genre and gender-related variations in narrative structure.
 
